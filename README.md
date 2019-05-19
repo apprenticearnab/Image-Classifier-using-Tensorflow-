@@ -1,1 +1,1 @@
-# Image-Classifier-using-Tensorflow-
+This is a simple approach to classify mnist datasets using tensorflow.Here I am using Recurrent Neural Networks to classify the Images. Rrcurrent neural networks is a type of deep learning-oriented algorithm, which follows a sequential approach.
